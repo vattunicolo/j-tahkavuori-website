@@ -18,11 +18,10 @@ Windowsin Turbopack-aliprosessiongelman vuoksi skriptit käyttävät Webpackia.
 
 ## Julkaisutila
 
-**Tilaaja hyväksyi julkisen demojulkaisun 12.11.2026. Vercel-julkaisu on vielä kesken.**
+**Tilaaja hyväksyi julkisen demojulkaisun 12.11.2026 ja valitsi GitHub Pagesin.**
 
-Vercelin Next.js-asetukset ovat valmiina. Hakukoneindeksointi on estetty metatiedoissa, mutta se ei ole pääsynhallinta. Julkinen demo voidaan kytkeä GitHub-repositorioon.
+GitHub Actions rakentaa staattisen Next.js-sivuston ja julkaisee sen GitHub Pagesiin. Hakukoneindeksointi on estetty metatiedoissa, mutta se ei ole pääsynhallinta. Katso [GitHub Pages -ohje](docs/GITHUB-PAGES.md) kertaluonteista käyttöönottoa varten. Aiempi Vercel-suunnitelma on korvattu tällä.
 
 Julkinen GitHub-repositorio: https://github.com/vattunicolo/j-tahkavuori-website .
 
 Tarkemmat vaiheet: [Julkaisun valmistelu](docs/DEPLOYMENT.md). Sisällön lähteet ja tarkistusasiat: [Sisältötiedot](docs/CONTENT.md).
-
